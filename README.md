@@ -8,7 +8,7 @@ train.ipynb: Jupyter Notebook for training the VineNet model and evaluating resu
 model.py: Python file containing the implementation of the VineNet model architecture.
 dataset.py: Python file for handling the dataset and data loading.
 utils.py: Python file containing utility functions for data preprocessing and evaluation.
-app/app.py: Python file containing the Flask web application for showcasing the practical application of VineNet's segmentation models on a user-friendly webpage.
+app/app.py: Python file containing the web application for showcasing the practical application of VineNet's segmentation models on a user-friendly webpage.
 
 Presentation:
 The presentation slides for VineNet can be found in the CS671_Hackathon_Presentation_P05_B.pptx file.

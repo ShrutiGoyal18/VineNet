@@ -4,11 +4,11 @@ Overview:
 VineNet is an innovative deep-learning project aimed at revolutionizing vineyard management through grape segmentation in high-resolution images. By accurately segmenting grape bunches, VineNet enables vineyard owners to make informed decisions for better crop management.
 
 Files:
-train.ipynb: Jupyter Notebook for training the VineNet model and evaluating results.
-model.py: Python file containing the implementation of the VineNet model architecture.
-dataset.py: Python file for handling the dataset and data loading.
-utils.py: Python file containing utility functions for data preprocessing and evaluation.
-app/app.py: Python file containing the web application for showcasing the practical application of VineNet's segmentation models on a user-friendly webpage.
+Model/train.ipynb: Jupyter Notebook for training the VineNet model and evaluating results.
+Model/model.py: Python file containing the implementation of the VineNet model architecture.
+Model/dataset.py: Python file for handling the dataset and data loading.
+Model/utils.py: Python file containing utility functions for data preprocessing and evaluation.
+App/app.py: Python file containing the web application for showcasing the practical application of VineNet's segmentation models on a user-friendly webpage.
 
 Presentation:
 The presentation slides for VineNet can be found in the CS671_Hackathon_Presentation_P05_B.pptx file.

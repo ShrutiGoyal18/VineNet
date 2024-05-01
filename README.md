@@ -5,7 +5,7 @@ VineNet is an innovative deep-learning project aimed at revolutionizing vineyard
 
 Files:
 Model/train.ipynb: Jupyter Notebook for training the VineNet model and evaluating results.
-Model/model.py: Python file containing the implementation of the VineNet model architecture.
+Model/model_final_v3.py: Python file containing the implementation of the VineNet model architecture.
 Model/dataset.py: Python file for handling the dataset and data loading.
 Model/utils.py: Python file containing utility functions for data preprocessing and evaluation.
 App/app.py: Python file containing the web application for showcasing the practical application of VineNet's segmentation models on a user-friendly webpage.
